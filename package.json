@@ -1,0 +1,23 @@
+{
+  "name": "final_assessment_chioma",
+  "version": "1.0.0",
+  "description": "My first app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simpcyclassy/final_assessment_chioma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simpcyclassy/final_assessment_chioma/issues"
+  },
+  "homepage": "https://github.com/Simpcyclassy/final_assessment_chioma#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
